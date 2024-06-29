@@ -1,0 +1,23 @@
+{
+  "name": "royal-nord",
+  "displayName": "Royal Nord",
+  "description": "My favorite Black & Gold UI with syntax highlighting & colors inspired from Nord.",
+  "version": "1.0.0",
+  "publisher": "ozan-ozbeker",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "RoyalNord",
+        "label": "Royal Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/royal-nord.json"
+      }
+    ]
+  }
+}
