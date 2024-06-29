@@ -1,5 +1,5 @@
 # Royal Nord
-Royal Nord is a theme for Positron & VS Code designed to R users.
+Royal Nord is a theme for Positron & VS Code designed for R users.
 
 ![Royal Nord theme for Positron & VS Code](royal-nord.png)
 
