@@ -7,9 +7,9 @@ Royal Nord is a theme for Positron & VS Code designed for R users.
 As of writing, Positron & VS Code keep extensions in:
 
 ### Positron
-- **Windows:** `C:\Program Files\Positron\resources\app\extensions`
-- **Mac:** `/Users/<YourUsername>/.vscode/extensions`
-- **Linux:** `/home/<YourUsername>/.vscode/extensions`
+- **Windows:** `C:\Users\<YourUsername>\.positron\extensions`
+- **Mac:** `/Users/<YourUsername>/.positron/extensions`
+- **Linux:** `/home/<YourUsername>/.positron/extensions`
 
 ### VS Code
 - **Windows:** `C:\Users\<YourUsername>\.vscode\extensions`
